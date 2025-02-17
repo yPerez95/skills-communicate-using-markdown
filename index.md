@@ -8,3 +8,6 @@
 ``` javascript
 console.log("Da Minha Mulher - Hatsune Miku")
 ```
+- [X] No hablar de Huevito Rey
+- [X] Está dentro de las reglas
+- [ ] NO SE HABLA DE HUEVITO REY, EL ESTÁ PRESO
